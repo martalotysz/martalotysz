@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning GIT, Java fundamentals, DevTools, German and I'm consolidating knowledge of the ISTQB Foundation level
 
-- 📫 If you want to know something more about me: https://www.canva.com/design/DAFUSFX6zUY/4iL4WYIMeeLySMQhkLo1rg/edit?utm_content=DAFUSFX6zUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonreach </br>
+- 📫 If you want to know something more about me: https://www.canva.com/design/DAFUSFX6zUY/o0SDTuAYt43a_Vrp2vLhAA/view?utm_content=DAFUSFX6zUY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent </br>
 
 - 📫 You can reach me by martaloty@gmail.com or https://www.linkedin.com/in/marta-łotysz/
 
