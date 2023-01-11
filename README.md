@@ -13,7 +13,7 @@
 
 <H1>Education </H1>
 
-- 🌱 GIT project Cherry-it.pl
+- 🌱 GIT project Cherry-it.pl (starting soon)
 
 - 🌱 Training project 2/2022 Cherry-it.pl
 
