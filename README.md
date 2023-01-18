@@ -26,12 +26,13 @@
 - ☛ Reporting bugs, creating test cases
 - ☛ ISTQB knowledge
 - ☛ Basic knowledge about software development cycle
-- ☛ SQL Basics
+- ☛ SQL Managment Studio 
 - ☛ JIRA/ Xray/ Trello/ Slack
 - ☛ HTML5/ CSS/ Visual Studio Code Basics
 - ☛ Scrum/ Agile
 - ☛ English B2
 - ☛ Meticulousness and accuracy
+- ☛ Patience
 - ☛ Strong positive attitude to learn new tools and technologies
 - ☛ Excellent ability to work in a team
 
