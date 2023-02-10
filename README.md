@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in testing, psychology, books, flamenco dance, crochet and knitting
 
-- 🌱 I’m currently learning GIT, Java fundamentals, DevTools, German and I'm consolidating knowledge of the ISTQB Foundation level
+- 🌱 I’m currently learning GIT, Python fundamentals, DevTools, German and I'm consolidating knowledge of the ISTQB to take the exam on March 2023
 
 - 📫 If you want to know something more about me: https://www.canva.com/design/DAFUSFX6zUY/o0SDTuAYt43a_Vrp2vLhAA/view?utm_content=DAFUSFX6zUY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent </br>
 
@@ -35,6 +35,7 @@
 - ☛ Patience
 - ☛ Strong positive attitude to learn new tools and technologies
 - ☛ Excellent ability to work in a team
+- ☛ Great adaptability skills
 
 <H1> Upskilling </h1>
 
