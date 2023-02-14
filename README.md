@@ -47,7 +47,7 @@
  ☛ Blogs&webinars: testuj.pl, testerzy.pl, testelka.pl, szkoleniadlaqa.pl, testerembyc.pl, jaktestowac.pl, anatomiakodu.pl </br>
  ☛ GIT w pigułce dla testera - Cantest.it </br>
  ☛ Let's do IT AKAdemy </br>
- ☛ Bussines English Eklektika
+ ☛ Bussines English Eklektika </br>
  ☛ Krakowskie Dni Informatyki </br>
  ☛ Pozitive Technologies </br>
  ☛ Woman TechStyle Summit </br>
