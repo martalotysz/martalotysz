@@ -13,26 +13,31 @@
 
 <H1>Education </H1>
 
-- 🌱 GIT project Cherry-it.pl (starting soon)
+- ☛ Green Digital Skills - INCO Academy (17/01 - 17/02/2023)
 
-- 🌱 Training project 2/2022 Cherry-it.pl
+- 🌱 GIT project Cherry-it.pl (01/2023)
 
-- ☛ Get Into Tech - INCO Academy 
+- 🌱 Training project 2/2022 Cherry-it.pl (11-12/2022)
 
-- ☛ Software Tester Bootcamp | Future Collars
+- ☛ Get Into Tech - INCO Academy (11-12/2022)
+
+- ☛ Software Tester Bootcamp | Future Collars (05-08/2022)
 
 <H1> Skills </h1>
 
+- ☛ Software testing
 - ☛ Reporting bugs, creating test cases
 - ☛ ISTQB knowledge
 - ☛ Basic knowledge about software development cycle
 - ☛ SQL Managment Studio 
 - ☛ JIRA/ Xray/ Trello/ Slack
 - ☛ HTML5/ CSS/ Visual Studio Code Basics
+- ☛ GIT
 - ☛ Scrum/ Agile
 - ☛ English B2
-- ☛ Meticulousness and accuracy
+- ☛ Attention to details and accuracy
 - ☛ Patience
+- ☛ Communication skills
 - ☛ Strong positive attitude to learn new tools and technologies
 - ☛ Excellent ability to work in a team
 - ☛ Great adaptability skills
@@ -42,6 +47,7 @@
  ☛ Blogs&webinars: testuj.pl, testerzy.pl, testelka.pl, szkoleniadlaqa.pl, testerembyc.pl, jaktestowac.pl, anatomiakodu.pl </br>
  ☛ GIT w pigułce dla testera - Cantest.it </br>
  ☛ Let's do IT AKAdemy </br>
+ ☛ Bussines English Eklektika
  ☛ Krakowskie Dni Informatyki </br>
  ☛ Pozitive Technologies </br>
  ☛ Woman TechStyle Summit </br>
@@ -50,7 +56,7 @@
 
  ☛ Test cases & bugs reports </br>
  https://onedrive.live.com/?authkey=%21AEAkGvPWMibZ0DM&id=5DCB01F3E8836BFE%21118&cid=5DCB01F3E8836BFE </br>
- ☛ Test documentation cherry-it.pl project </br>
+ ☛ Test documentation </br>
  https://trello.com/invite/b/DovZEzuK/ATTI2ce0a5e49fb9539b2d396669c3a9549f8D4BAB4C/testowanie-eksploracyjne
 
 
