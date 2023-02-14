@@ -32,6 +32,7 @@
 - ☛ SQL Managment Studio 
 - ☛ JIRA/ Xray/ Trello/ Slack
 - ☛ HTML5/ CSS/ Visual Studio Code Basics
+- ☛ Chrome Devtools
 - ☛ GIT
 - ☛ Scrum/ Agile
 - ☛ English B2
