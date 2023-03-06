@@ -57,8 +57,6 @@
 
  ☛ Test cases & bugs reports </br>
  https://onedrive.live.com/?authkey=%21AEAkGvPWMibZ0DM&id=5DCB01F3E8836BFE%21118&cid=5DCB01F3E8836BFE </br>
- ☛ Test documentation </br>
- https://trello.com/invite/b/DovZEzuK/ATTI2ce0a5e49fb9539b2d396669c3a9549f8D4BAB4C/testowanie-eksploracyjne
 
 
 
