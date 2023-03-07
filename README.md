@@ -5,9 +5,9 @@
 
 - 👀 I’m interested in testing, psychology, books, flamenco dance, crochet and knitting
 
-- 🌱 I’m currently learning GIT, Python fundamentals, DevTools, German and I'm consolidating knowledge of the ISTQB to take the exam on March 2023
+- 🌱 I’m currently expanding my knowledge of GIT, DevTools, REST API and German and I'm consolidating knowledge of the ISTQB
 
-- 📫 If you want to know something more about me: https://www.canva.com/design/DAFUSFX6zUY/o0SDTuAYt43a_Vrp2vLhAA/view?utm_content=DAFUSFX6zUY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent </br>
+- 📫 If you want to know me better ;) -> https://www.canva.com/design/DAFUSFX6zUY/o0SDTuAYt43a_Vrp2vLhAA/view?utm_content=DAFUSFX6zUY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent </br>
 
 - 📫 You can reach me by martaloty@gmail.com or https://www.linkedin.com/in/marta-łotysz/
 
@@ -46,7 +46,7 @@
 <H1> Upskilling </h1>
 
  ☛ Blogs&webinars: testuj.pl, testerzy.pl, testelka.pl, szkoleniadlaqa.pl, testerembyc.pl, jaktestowac.pl, anatomiakodu.pl </br>
- ☛ GIT w pigułce dla testera - Cantest.it </br>
+ ☛ GIT w pigułce dla testera; Dev Tools; Wprowadzenie do Gatlinga -> Cantest.it </br>
  ☛ Let's do IT AKAdemy </br>
  ☛ Bussines English Eklektika </br>
  ☛ Krakowskie Dni Informatyki </br>
