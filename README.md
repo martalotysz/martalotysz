@@ -13,6 +13,10 @@
 
 <H1>Education </H1>
 
+- 🌱 COLT project Cherry-it.pl (03-04/2023)
+
+- ☛ Workshop with Rik Marselis at Test:fest Conference (03/2023)
+
 - ☛ Green Digital Skills - INCO Academy (17/01 - 17/02/2023)
 
 - 🌱 GIT project Cherry-it.pl (01/2023)
@@ -32,8 +36,10 @@
 - ☛ SQL Managment Studio 
 - ☛ JIRA/ Xray/ Trello/ Slack
 - ☛ HTML5/ CSS/ Visual Studio Code Basics
+- ☛ HTTP protocol/ JSON
 - ☛ Chrome Devtools
 - ☛ GIT
+- ☛ Postman/ REST API
 - ☛ Scrum/ Agile
 - ☛ English B2
 - ☛ Attention to details and accuracy
@@ -46,7 +52,8 @@
 <H1> Upskilling </h1>
 
  ☛ Blogs&webinars: testuj.pl, testerzy.pl, testelka.pl, szkoleniadlaqa.pl, testerembyc.pl, jaktestowac.pl, anatomiakodu.pl </br>
- ☛ GIT w pigułce dla testera; Dev Tools; Wprowadzenie do Gatlinga -> Cantest.it </br>
+ ☛ Warsaw IT Days (03/2023) </br>
+ ☛ Workshops Cantest.it - Introduction to Cypress; Understanding REST API; Intoruction to Git for testers; Dev Tools; Introduction to Gatling; Introduction to CI/CD  </br>
  ☛ Let's do IT AKAdemy </br>
  ☛ Bussines English Eklektika </br>
  ☛ Krakowskie Dni Informatyki </br>
@@ -56,7 +63,7 @@
  <H1> My Test Documentation </h1>
 
  ☛ Test cases & bugs reports </br>
- https://onedrive.live.com/?authkey=%21AEAkGvPWMibZ0DM&id=5DCB01F3E8836BFE%21118&cid=5DCB01F3E8836BFE </br>
+ See my repositories below
 
 
 
